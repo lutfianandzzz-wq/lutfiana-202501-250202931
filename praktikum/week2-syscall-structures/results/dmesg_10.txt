@@ -1,0 +1,11 @@
+lutfiana@DESKTOP-UJHPLSI:~$ dmesg | tail -n 10
+[    1.977880] misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+[    1.979010] misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+[    2.073994] Failed to connect to bus: No such file or directory
+[    2.267005] systemd-journald[61]: Received client request to flush runtime journal.
+[    2.281584] systemd-journald[61]: File /var/log/journal/956fcaf7a0514ad5b0561168c22ca1aa/system.journal corrupted or uncleanly shut down, renaming and replacing.
+[    2.422270] ACPI: AC: AC Adapter [AC1] (off-line)
+[    2.451516] ACPI: battery: Slot [BAT1] (battery present)
+[    2.698009] kvm_intel: Using Hyper-V Enlightened VMCS
+[    6.129180] WSL (220) ERROR: CheckConnection: getaddrinfo() failed: -5
+[   47.831579] hv_balloon: Max. dynamic memory size: 8064 MB
