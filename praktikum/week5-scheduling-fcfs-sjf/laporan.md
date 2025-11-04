@@ -95,16 +95,14 @@ Sertakan screenshot hasil percobaan atau diagram:
 
 ## Quiz
 1. Apa perbedaan utama antara FCFS dan SJF? 
-   
    **Jawaban:**  
 - Perbedaan utama antara FCFS (First Come First Served) dan SJF (Shortest Job First) terletak pada kriteria penentuan proses mana yang akan dieksekusi selanjutnya dan dampaknya terhadap kinerja sistem.
   
 2. Mengapa SJF dapat menghasilkan rata-rata waktu tunggu minimum? 
    **Jawaban:**  
-- SJF (Shortest Job First) dapat menghasilkan rata-rata waktu tunggu (Waiting Time/WT) minimum karena ia menggunakan strategi penjadwalan yang paling efisien dalam mengelola antrian proses.
+- SJF (Shortest Job First) dapat menghasilkan rata-rata waktu tunggu (Waiting Time/WT) minimum karena menggunakan strategi penjadwalan yang paling efisien dalam mengelola antrian proses.
   
 3. Apa kelemahan SJF jika diterapkan pada sistem interaktif?
-   
    **Jawaban:**  
 - Kelemahan utama dari algoritma penjadwalan SJF (Shortest Job First) jika diterapkan pada sistem interaktif yaitu respons time yang buruk,Starvation (Kelaparan).
 
