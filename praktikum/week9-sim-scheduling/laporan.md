@@ -14,9 +14,9 @@ Topik: [ Simulasi Algoritma Penjadwalan CPU]
 ## Tujuan
 Tuliskan tujuan praktikum minggu ini.  
 Contoh:  
-> Membuat program simulasi algoritma penjadwalan FCFS dan/atau SJF.
-> Menjalankan program dengan dataset uji yang diberikan atau dibuat sendiri.
-> Menyajikan output simulasi dalam bentuk tabel atau grafik.
+>- Membuat program simulasi algoritma penjadwalan FCFS dan/atau SJF.
+>- Menjalankan program dengan dataset uji yang diberikan atau dibuat sendiri.
+>- Menyajikan output simulasi dalam bentuk tabel atau grafik.
 ---
 
 ## Dasar Teori
