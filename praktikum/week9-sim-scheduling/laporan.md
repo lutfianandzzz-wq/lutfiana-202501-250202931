@@ -77,7 +77,7 @@ for i in range (n):
 
 ## Hasil Eksekusi
 Sertakan screenshot hasil percobaan atau diagram:
-![Screenshot hasil](./screenshots/hasil_simulasi%20png)
+![Screenshot hasil](./screenshots/hasil_eksekusi.png)
 
 ---
 
